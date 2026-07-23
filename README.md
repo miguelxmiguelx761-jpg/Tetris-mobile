@@ -1,6 +1,6 @@
 # Tetris-mobile
 Esse tetris foi feito para celular em computador para você acessar esse script você tem que instalar o python
-estar aqui ou script python 
+estar aqui o script python 
 👇👇
 
 # TRABALHO EM EQUIPE: TETERES DE RESPEITO COM NOVAS CORES!
